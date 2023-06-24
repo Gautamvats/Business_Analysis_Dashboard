@@ -8,4 +8,4 @@ Implemented dynamic filters and slicers within the dashboard, allowing users to 
 ![AW Project 01](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/dbfc0785-2aca-43f7-a07d-4f7bc49f93bc)
 ![AW Project 02](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/53788040-043a-4114-8253-528357e3af2d)
 ![AW Project 03](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/98da0bbd-4b13-4af6-b346-69f154283174)
-![AW Project 04](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/ad59bacc-48e8-43f8-afb1-38c17db51cc0)
+![Screenshot 2023-06-23 131107](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/5baea915-4971-4797-bff7-0dc98622599c)
