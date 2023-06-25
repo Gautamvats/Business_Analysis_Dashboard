@@ -1,8 +1,5 @@
 # Personal_Power_BI_Project 
-Developed and deployed a comprehensive 4-page interactive Power BI dashboard, leveraging line charts, bar charts, and maps to visualize and analyze crucial sales data.
-Transformed and processed data using DAX to ensure data completeness and validity.
-Utilized Power BI's data modeling capabilities to integrate and transform multiple data sources, ensuring data accuracy and consistency, and enabling accurate and insightful analysis.
-Implemented dynamic filters and slicers within the dashboard, allowing users to drill down into specific time periods, product categories, and customer segments, facilitating in-depth analysis and customized reporting.
+I developed and deployed a comprehensive 4-page interactive Power BI dashboard, leveraging line charts, bar charts, and maps to visualise and analyse crucial sales data. I transformed and processed the data using DAX to ensure data completeness and validity. Additionally, I utilised Power BI's data modelling capabilities to integrate and transform multiple data sources, ensuring data accuracy and consistency, and enabling accurate and insightful analysis. Furthermore, I implemented dynamic filters and slicers within the dashboard, allowing users to drill down into specific time periods, product categories, and customer segments, thereby facilitating in-depth analysis and customised reporting.
 
 
 ![AW Project 01](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/dbfc0785-2aca-43f7-a07d-4f7bc49f93bc)
