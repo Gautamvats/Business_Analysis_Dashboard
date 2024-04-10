@@ -18,7 +18,7 @@ Developed and deployed a comprehensive 4-page interactive Power BI dashboard, le
 **MS Power BI**
 - Power Query - Data Cleaning & Transformation
 - DAX Formulas - Data Analysis
-- Data Visualization Platoform - Creating Report
+- Data Visualization Platform - Creating Report
 
 
 <BR>
