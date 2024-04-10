@@ -1,5 +1,25 @@
-# Personal_Power_BI_Project 
+# Business Analysis
+
+### Project Overview
 Developed and deployed a comprehensive 4-page interactive Power BI dashboard, leveraging line charts, bar charts, and maps to visualise and analyse crucial sales data. I transformed and processed the data using DAX to ensure data completeness and validity. Additionally, I utilised Power BI's data modelling capabilities to integrate and transform multiple data sources, ensuring data accuracy and consistency, and enabling accurate and insightful analysis. Furthermore, I implemented dynamic filters and slicers within the dashboard, allowing users to drill down into specific time periods, product categories, and customer segments, thereby facilitating in-depth analysis and customised reporting.
+
+
+### Data Sources
+- **Sales Data**: Dataset for analyzing company sales across years.
+- **Sales Return Data**: Dataset for tracking and analyzing sales returns.
+- **Customer Data**: Dataset containing customer information for segmentation and analysis.
+- **Product Data**: Dataset providing details about company products for analysis.
+- **Product Category Data**: Dataset categorizing products for organizational analysis.
+- **Product Subcategory Data**: Dataset providing subcategory details for product analysis.
+- **Territory Data**: Dataset containing information on sales territories for geographical analysis.
+
+
+### Tools
+**MS Power BI**
+- Power Query - Data Cleaning & Transformation
+- DAX Formulas - Data Analysis
+- Data Visualization Platoform - Creating Report
+
 
 <BR>
 
