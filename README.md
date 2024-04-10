@@ -24,7 +24,7 @@ Developed and deployed a comprehensive 4-page interactive Power BI dashboard, le
 
 <BR>
 
-### Report Pictures
+### Pictures of the Report
 
 <BR>
 
