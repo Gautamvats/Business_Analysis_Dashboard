@@ -24,7 +24,7 @@ Developed and deployed a comprehensive 4-page interactive Power BI dashboard, le
 <BR>
 
 
-### Dashboard Pictures
+### Report Pictures
 <BR>
 
 ![AW Project 01](https://github.com/Gautamvats/Power_BI_Project/assets/137445534/dbfc0785-2aca-43f7-a07d-4f7bc49f93bc)
