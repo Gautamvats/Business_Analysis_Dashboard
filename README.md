@@ -1,4 +1,4 @@
-# Business Data Analysis Dashboard
+# Business Analysis Dashboard
 
 ### Project Overview
 
